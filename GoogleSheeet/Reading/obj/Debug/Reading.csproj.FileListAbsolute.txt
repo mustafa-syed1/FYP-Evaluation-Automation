@@ -52,3 +52,6 @@ C:\Users\usama\Desktop\GoogleSheeet\GoogleSheeet\Reading\bin\Debug\Google.Apis.S
 C:\Users\usama\Desktop\GoogleSheeet\GoogleSheeet\Reading\bin\Debug\Newtonsoft.Json.xml
 C:\Users\usama\Desktop\GoogleSheeet\GoogleSheeet\Reading\bin\Debug\System.ValueTuple.xml
 C:\Users\usama\Desktop\GoogleSheeet\GoogleSheeet\Reading\obj\Debug\Reading.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\FYP-Evaluation-Automation\GoogleSheeet\GoogleSheeet\Reading\bin\Debug\Reading.exe.config
+C:\Users\usama\Desktop\FYP-Evaluation-Automation\GoogleSheeet\GoogleSheeet\Reading\obj\Debug\Reading.exe
+C:\Users\usama\Desktop\FYP-Evaluation-Automation\GoogleSheeet\GoogleSheeet\Reading\obj\Debug\Reading.pdb
