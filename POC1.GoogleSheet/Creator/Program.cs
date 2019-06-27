@@ -49,10 +49,14 @@ namespace Creator
                var sheet = new Sheet();
                sheet.Properties = new SheetProperties();
                sheet.Properties.Title = "Sheet1"; // Name of one sheet
-               myNewSheet.Sheets = new List<Sheet>() { sheet };
+               var sheet2 = new Sheet();
+               sheet2.Properties = new SheetProperties();
+               sheet2.Properties.Title = "Sheet2"; // Name of second sheet
+               myNewSheet.Sheets = new List<Sheet>() { sheet, sheet2 }; // Add as many sheets as you want in this list
 
                var newSheet = service.Spreadsheets.Create(myNewSheet).Execute();
 
+               
           }
      }
 }
