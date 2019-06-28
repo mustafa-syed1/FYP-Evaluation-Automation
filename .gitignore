@@ -2,4 +2,17 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/POC1.GoogleSheet/Permission/obj/Debug
+/POC1.GoogleSheet/Permission/obj/Release
+/POC1.GoogleSheet/Permission/bin/Debug
+/POC1.GoogleSheet/Permission/bin/Release
+/POC1.GoogleSheet/Reading/obj/Release
+/POC1.GoogleSheet/Reading/obj/Debug
 /POC1.GoogleSheet/Reading/bin/Debug
+/POC1.GoogleSheet/Reading/bin/Release
+/POC1.GoogleSheet/Creator/obj/Release
+/POC1.GoogleSheet/Creator/obj/Debug
+/POC1.GoogleSheet/Creator/bin/Release
+/POC1.GoogleSheet/Creator/bin/Debug
+/POC1.GoogleSheet/.vs/POC1.GoogleSheet
+/.vs
